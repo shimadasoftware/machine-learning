@@ -144,17 +144,6 @@ Ejemplo: fraudes, situaciones de peligro.
 
 5. **Predicciones**: Cuando ya se ha entrenado el algoritmo, se usan los datos de validación (no los ha visto el algoritmo) para revisar si funciona bien o no.
 
-## Aprendizaje supervisado y no supervisado
-
-Según la cantidad de supervisión humana que tienen los procesos de aprendizaje, los métodos de Machine Learning pueden clasificarse en:
-
-- APRENDIZAJE SUPERVISADO
-Necesita tener los datos tanto de la variable predictora X como de la variable a predecir Y. Se entrenan con datos etiquetados (datos de respuesta deseada).
-Por ejemplo: para detectar si una TC es fraudulenta se hace el entrenamiento con TC tanto válidas como fraudulentas. Aplicable a problemas de regresión y clasificación.
-
-- APRENDIZAJE NO SUPERVISADO
-No necesita los datos de la variable objetivo Y. Usan datos sin etiquetas y busca encontrar relaciones entre ellos. Aplicable a problemas de Agrupamiento o clustering.
-
 ## Principales librerías de Python para Machine Learning
 
 ### NumPy: 
@@ -240,5 +229,8 @@ Es una estructura bidimensional que permite organizar los datos en forma de tabl
 - Las columnas
 - Los datos
 
-La diferencia fundamental entre NumPy y Panda es que en Panda es posible etiquetar las filas y columnas para acceder a los datos de forma más fácil y directa.
-Dicho de otra forma, Pandas es como una versión estructurada de NumPy.
+La diferencia fundamental entre NumPy y Pandas, es que en Pandas es posible etiquetar las filas y columnas para acceder a los datos de forma más fácil y directa. Dicho de otra forma, Pandas es como una versión estructurada de NumPy.
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/587752e3-a2f4-4f9c-a41b-8931d0f6b142)
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/ea0f175a-6a1d-4e50-99a3-157d33e2e8e0)
