@@ -126,7 +126,7 @@ Ejemplo: fraudes, situaciones de peligro.
 
 ## Métodos de Machine Learning
 
-<img src="https://github.com/shimadasoftware/machine-learning/assets/73977456/6c925936-006c-47be-b6e8-92e1354f75b1" alt="Italian Trulli" style="width:700px;height:200px;">
+<img src="https://github.com/shimadasoftware/machine-learning/assets/73977456/6c925936-006c-47be-b6e8-92e1354f75b1" alt="Italian Trulli" style="width:800px;height:200px;">
 
 1. **Datos**: Recopilación de la información.
 
@@ -147,8 +147,6 @@ Ejemplo: fraudes, situaciones de peligro.
 ## Aprendizaje supervisado y no supervisado
 
 Según la cantidad de supervisión humana que tienen los procesos de aprendizaje, los métodos de Machine Learning pueden clasificarse en:
-- Aprendizaje supervisado.
-- Aprendizaje no supervisado.
 
 - APRENDIZAJE SUPERVISADO
 Necesita tener los datos tanto de la variable predictora X como de la variable a predecir Y. Se entrenan con datos etiquetados (datos de respuesta deseada).
@@ -156,3 +154,91 @@ Por ejemplo: para detectar si una TC es fraudulenta se hace el entrenamiento con
 
 - APRENDIZAJE NO SUPERVISADO
 No necesita los datos de la variable objetivo Y. Usan datos sin etiquetas y busca encontrar relaciones entre ellos. Aplicable a problemas de Agrupamiento o clustering.
+
+## Principales librerías de Python para Machine Learning
+
+### NumPy: 
+
+Librería que proporciona estructura de los datos en forma de matriz. Su nombre proviene de Numerical Python.
+
+NumPy array: objeto de matriz N-dimensional.
+
+1. Crear arreglo y matriz.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/97261bda-fa28-40de-a24e-eb24a151f03e)
+
+Ventajas de usar NumPy:
+- Usan menos memoria que las listas de Python.
+- Es más rápido en ejecución.
+
+2. Llenar matriz 3 x 5 con 1.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/32b68730-ecf1-44d5-a34b-3d079ef0be72)
+
+3. Llenar matriz 3 x 5 con 0.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/c4dab642-9723-41cb-8f4d-f49abc71f2e5)
+
+4. Llenar matriz 3 x 5 con un número en específico (5).
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/7142ac6b-47ff-4403-a593-5fa75b6d20c4)
+
+5. Llenar matriz 3 x 5 con números aleatorios.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/4b15f4c8-70fe-4bf2-872f-551a5821ef93)
+
+6. Cree un arreglo que comience en 0 y termine en 40 y separe cada valor por 10.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/fa3ecc32-29b9-48f5-a796-273d920bb465)
+
+7. Crear un arreglo de 10 valores que comience en 0 y termine en 50.Crear un arreglo de 10 valores que comience en 0 y termine en 50.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/bbdd850d-ebc4-4268-a080-c5bb9ebdc11c)
+
+8. Crear una matriz identidad.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/40467ffb-dd01-4215-b512-fc2a2d034052)
+
+9. Parámetros de las matrices.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/71fb071c-ec8a-4ed4-a9cb-c53b9551f94f)
+
+10. Cambiar el tamaño de la matriz.
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/b40e56b5-c378-40d1-b1b8-5fe31449a395)
+
+11. Dada la siguiente matriz, ¿cómo imprimir todos los elementos de la primera fila?
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/c4d61899-55d2-431d-8232-bfa470a24b66)
+
+12. ¿Qué producen las siguientes funciones?
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/657aec1f-127f-4684-995c-08f9ae333d41)
+
+13. Obtener la desviación estándar de los datos almacenados en una matriz
+
+En estadística, la desviación típica de standard deviation es una medida que se utiliza para cuantificar la variación o la dispersión de un conjunto de datos numéricos.​
+
+<img src="https://github.com/shimadasoftware/machine-learning/assets/73977456/52a31750-7259-419c-bbb1-b7e2718388b4" alt="Italian Trulli" style="width:800px;height:1200;">
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/d26e1d0a-ce22-47fe-ba75-9b42b0ed8a22)
+
+14. Operaciones básicas de las matrices.
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/43f332c9-f77d-48df-8147-6c597ecbd553)
+
+15. Producto escalar de dos matrices.
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/b8bcfff1-5cf3-419a-8551-f79e84a6695a)
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/50dab80f-2de8-436c-b26c-7cd3f48f9c71)
+
+![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/f62e7594-ba3e-4b17-8298-c0bd368bf63a)
+
+### Dataframe:  
+
+Es un popular paquete de Python usado en la ciencia de los datos. Permite manipulación, análisis y organización de datos a través de estructuras como el DATAFRAME. El nombre de la librería viene de Panel Data.
+
+Gracias a esta librería es posible la implementación de 5 procesos básicos necesarios en la ciencia de los datos:
+- Cargar
+- Preparar
+- Modelar
+- Manipular
+- Analizar
+
+DATAFRAME:
+Es una estructura bidimensional que permite organizar los datos en forma de tabla, donde se destacan como parámetros:
+- Las filas
+- Las columnas
+- Los datos
+
+La diferencia fundamental entre NumPy y Panda es que en Panda es posible etiquetar las filas y columnas para acceder a los datos de forma más fácil y directa.
+Dicho de otra forma, Pandas es como una versión estructurada de NumPy.
