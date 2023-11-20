@@ -234,3 +234,5 @@ La diferencia fundamental entre NumPy y Pandas, es que en Pandas es posible etiq
 ![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/587752e3-a2f4-4f9c-a41b-8931d0f6b142)
 
 ![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/ea0f175a-6a1d-4e50-99a3-157d33e2e8e0)
+
+Para más información, acceder al [notebook](https://github.com/shimadasoftware/machine-learning/blob/main/1.%20Introducci%C3%B3n%20a%20Machine%20Learning/Python%20Libraries.ipynb).
