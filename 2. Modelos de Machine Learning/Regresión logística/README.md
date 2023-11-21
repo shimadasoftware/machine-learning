@@ -17,9 +17,14 @@ La regresión logística es un modelo estadístico utilizado para predecir la pr
 
 La función logística (también conocida como función sigmoide) se utiliza en la regresión logística para transformar una combinación lineal de las variables independientes en un valor entre 0 y 1, que puede interpretarse como una probabilidad.
 
+![image](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/regresi%C3%B3n%20log%C3%ADsitica.png)
 
+Por ejemplo:
+La siguiente gráfica varia entre valores del 0 al 1. Si el valor predicho se ubica entre 0.5 y 1, entonces se puede catalogar como si y el valor será la probabilidad de dicho evento. Por otra parte, si el valor se ubica entre 0 y menos que 0.5, se cataloga como no.
 
-## Ejemplo práctico 02
+![image](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/regresi%C3%B3n%20log%C3%ADsitica%20gr%C3%A1fica.png)
+
+## Ejemplo práctico 01
 
 Se deben seguir tres pasos básicos:
   1. Preparar los datos
@@ -78,9 +83,10 @@ En resumen, la desviación estándar mide la dispersión de los valores en un co
 
 - **Peor (worst):** es la media de los tres valores más grandes de las características que se calcularon para cada imagen.
 
-### Desarrollo:
-
 El dataset se encuentra en https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 ![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/f2e41271-a2e0-44af-ad29-125db71d2fc9)
 
+### Desarrollo:
+
+Para ver el desarrollo planteado del reto ir al [notebook](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/Regresi%C3%B3n%20lineal/marathon/marathon.ipynb)
