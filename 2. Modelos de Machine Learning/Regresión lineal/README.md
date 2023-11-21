@@ -25,7 +25,7 @@ Donde:
 Con la regresión lineal se busca minimizar la distancia vertical entre los datos y la línea.
 Uno de los métodos más usados es el conocido como Mínimos Cuadrados, donde se busca reducir el error entre la línea resultante y los puntos de los datos.
 
-![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/50ef57fd-2247-4876-9707-d2e25ed9e5e4)
+![image](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/regresi%C3%B3n%20lineal.png)
 
 ### Método para solucionar los ejercicios
 
@@ -108,7 +108,7 @@ Según mi historial de entrenamiento, debo predecir mi tiempo esperado en el mar
 
 El dataset se encuentra en https://www.kaggle.com/girardi69/marathon-time-predictions/version/2
 
-![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/742099b9-f052-4271-82ac-4d0840db3386)
+![image](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/marathon%20dataset.png)
 
 ### Desarrollo 
 
