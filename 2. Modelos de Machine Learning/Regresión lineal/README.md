@@ -106,17 +106,12 @@ Cada Maratonista tiene un objetivo de tiempo en mente, y este es el resultado de
 #### El objetivo de esta competencia:
 Según mi historial de entrenamiento, debo predecir mi tiempo esperado en el maratón. ¿Qué otros datos relevantes podrían ayudarme a ser más preciso? Ritmo cardíaco, cadencia, entrenamiento de velocidad, ¿qué más? ¿Y cómo podría obtener esos datos?
 
-### Desarrollo 
-
-Se busca o extrae un conjunto de datos acerca del problema. Para este ejemplo se descargaron los datos de https://www.kaggle.com/girardi69/marathon-time-
-predictions/version/2
+El dataset se encuentra en https://www.kaggle.com/girardi69/marathon-time-predictions/version/2
 
 ![image](https://github.com/shimadasoftware/machine-learning/assets/73977456/742099b9-f052-4271-82ac-4d0840db3386)
 
-#### Paso 1: Preparación de los datos
+### Desarrollo 
 
-1. Cargar los datos del dataset.
+Para ver el desarrollo planteado del reto ir al [notebook](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/Regresi%C3%B3n%20lineal/marathon/marathon.ipynb)
 
-
-
-2. 
+ 
