@@ -71,7 +71,7 @@ Distribución de clases: 357 benignos, 212 malignos
 
 - **Desviación estándar:** es una medida de dispersión que indica cuánto se desvían los valores individuales de la media en un conjunto de datos.
 
-![image](https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/teor%C3%ADa%20desviaici%C3%B3n%20est%C3%A1ndar.png)
+<img src="https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/teor%C3%ADa%20desviaici%C3%B3n%20est%C3%A1ndar.png" alt="Italian Trulli" style="width:500px;height:500px;">
 
 - **Error estándar (standar error):**
 
