@@ -25,7 +25,7 @@ La clasificación se puede asociar con el proceso de asignar una "etiqueta de cl
 - Bosque aleatorio.
 - Bayes sencillo
 
-<img src="https://github.com/shimadasoftware/machine-learning/assets/73977456/f4a245dc-8c60-4bc6-8746-fc1a6de4aca7" alt="Italian Trulli" style="width:600px;height:400px;">
+<img src="https://github.com/shimadasoftware/machine-learning/blob/main/2.%20Modelos%20de%20Machine%20Learning/img/regresi%C3%B3n%20vs%20clasificaci%C3%B3n.png" alt="Italian Trulli" style="width:600px;height:400px;">
 
 ### - Aprendizaje No Supervisado
 No necesita los datos de la variable objetivo Y. Usan datos sin etiquetas y busca encontrar relaciones entre ellos. Aplicable a problemas de Agrupamiento o clustering.
